@@ -1,1 +1,3 @@
-*.o
+/xenc.so
+/in.bit
+/out.bit
